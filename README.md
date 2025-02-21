@@ -175,8 +175,3 @@ For additional support:
 - Check system logs using `dmesg`
 - Review kernel documentation for CAN subsystem
 
-## License
-[Add your license information here]
-
-## Contributing
-[Add contribution guidelines if applicable]
